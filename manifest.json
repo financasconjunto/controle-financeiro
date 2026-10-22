@@ -1,0 +1,17 @@
+{
+  "name": "Controle Financeiro",
+  "short_name": "Finanças",
+  "description": "Finanças da casa: saldo, gastos, cartões, reserva e recados.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#4338CA",
+  "theme_color": "#4338CA",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
